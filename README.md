@@ -1,15 +1,10 @@
-### Hi, I'm Sergey 👋
+hey, i'm sergey. math at waterloo + bba at laurier (double degree). i like building stuff that takes boring finance / ops work off people's plates.
 
-Math (University of Waterloo) and BBA (Wilfrid Laurier University) double degree student. I like building tools that take repetitive finance and operations work off people's plates, with AI where it helps and a human in the loop where it matters.
+- [closebooks](https://github.com/sergeygruzd/closebooks): ai month end close for small accounting firms, with ilia duda. [demo](https://closebooks-app.vercel.app/demo)
+- [roommies](https://github.com/sergeygruzd/roommies): money, chores and house stuff for student houses
+- [supply-planning-model](https://github.com/sergeygruzd/supply-planning-model): mrp model in excel, generated with python
+- [student-events-radar](https://github.com/sergeygruzd/student-events-radar): hackathons and case comps for ontario students
+- [ser-bot](https://github.com/sergeygruzd/ser-bot): wip, an ai version of me that drafts but never sends
+- [html2mac](https://github.com/sergeygruzd/html2mac): turn a web page into a mac app
 
-**Projects**
-
-| | |
-|---|---|
-| **[CloseBooks](https://github.com/sergeygruzd/closebooks)** ([live demo](https://closebooks-app.vercel.app/demo)) | AI-assisted month-end close for CPA firms, co-founded with Ilia Duda. Claude categorizes bank transactions against a client's chart of accounts, accountants review only the exceptions, and results export to a QuickBooks-style CSV. |
-| **[Roommies](https://github.com/sergeygruzd/roommies)** | Shared money, chores and house info for student houses. Settle-up uses the fewest possible transfers (bitmask DP). 150+ automated tests. |
-| **[Supply Planning Model](https://github.com/sergeygruzd/supply-planning-model)** | MRP planning model in Excel, generated with Python. Forecast to production to purchase orders to cash, all live formulas. |
-| **[Ser-Bot](https://github.com/sergeygruzd/ser-bot)** | Work in progress: a personal AI clone with hard guardrails (never auto-sends, defers on high-stakes calls). Next.js and the Claude API. |
-| **[html2mac](https://github.com/sergeygruzd/html2mac)** | Turns a single-file web app into a native macOS app in under 1 MB. Objective-C and WebKit. |
-
-📫 [LinkedIn](https://www.linkedin.com/in/sergey-gruzd-5138b3260)
+[linkedin](https://www.linkedin.com/in/sergey-gruzd-5138b3260)
