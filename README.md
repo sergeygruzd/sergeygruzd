@@ -6,7 +6,7 @@ Math (University of Waterloo) and BBA (Wilfrid Laurier University) double degree
 
 | | |
 |---|---|
-| **[CloseBooks](https://closebooks-app.vercel.app/demo)** | AI-assisted month-end close for CPA firms. Claude categorizes bank transactions against a client's chart of accounts, accountants review only the exceptions, and results export to a QuickBooks-style CSV. |
+| **[CloseBooks](https://github.com/sergeygruzd/closebooks)** ([live demo](https://closebooks-app.vercel.app/demo)) | AI-assisted month-end close for CPA firms, co-founded with Ilia Duda. Claude categorizes bank transactions against a client's chart of accounts, accountants review only the exceptions, and results export to a QuickBooks-style CSV. |
 | **[Roommies](https://github.com/sergeygruzd/roommies)** | Shared money, chores and house info for student houses. Settle-up uses the fewest possible transfers (bitmask DP). 150+ automated tests. |
 | **[Supply Planning Model](https://github.com/sergeygruzd/supply-planning-model)** | MRP planning model in Excel, generated with Python. Forecast to production to purchase orders to cash, all live formulas. |
 | **[Ser-Bot](https://github.com/sergeygruzd/ser-bot)** | Work in progress: a personal AI clone with hard guardrails (never auto-sends, defers on high-stakes calls). Next.js and the Claude API. |
